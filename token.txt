@@ -1,0 +1,33 @@
+token: - Created token with ID: 0.0.49354706
+
+- Token association with account 0.0.49354688: SUCCESS
+
+- Token association with account 0.0.49354689: SUCCESS
+
+- Sender balance: 35050 units of token ID 0.0.49354706
+- Receiver balance: 0 units of token ID 0.0.49354706
+
+- Stablecoin transfer from Treasury to 0.0.49354688: SUCCESS
+
+- Sender balance: 32525 units of token ID 0.0.49354706
+- Receiver balance: 2525 units of token ID 0.0.49354706
+- Sender balance: 32525 units of token ID 0.0.49354706
+- Receiver balance: 0 units of token ID 0.0.49354706
+
+- Stablecoin transfer from Treasury to 0.0.49354689: SUCCESS
+
+- Sender balance: 30000 units of token ID 0.0.49354706
+- Receiver balance: 2525 units of token ID 0.0.49354706
+The transaction consensus status SUCCESS
+- Sender balance: 30000 units of token ID 0.0.49354706
+- Receiver balance: 2525 units of token ID 0.0.49354706
+
+- Could not transfer tokens
+The transaction consensus status SUCCESS
+- Sender balance: 30000 units of token ID 0.0.49354706
+- Receiver balance: 2525 units of token ID 0.0.49354706
+
+- Stablecoin transfer from Treasury to 0.0.49354689: SUCCESS
+
+- Sender balance: 29865 units of token ID 0.0.49354706
+- Receiver balance: 2660 units of token ID 0.0.49354706
